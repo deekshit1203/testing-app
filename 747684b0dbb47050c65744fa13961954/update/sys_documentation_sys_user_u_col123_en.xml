@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_col123" label="col123" language="en" table="sys_user">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_col123</element>
+            <help/>
+            <hint/>
+            <label>col123</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <plural>col123s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>sivakrishna.buddhala@snc</sys_created_by>
+            <sys_created_on>2021-06-14 06:22:06</sys_created_on>
+            <sys_id>30e35228dbb0b0502f1472143996192b</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>col123</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SM task">747684b0dbb47050c65744fa13961954</sys_scope>
+            <sys_update_name>sys_documentation_sys_user_u_col123_en</sys_update_name>
+            <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
+            <sys_updated_on>2021-06-14 14:51:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="SM task">747684b0dbb47050c65744fa13961954</claim_owner_scope>
+        <claim_timestamp>17a0b017f9e0000001</claim_timestamp>
+        <metadata_update_name>sys_documentation_sys_user_u_col123_en</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>SM task</previous_claim_name>
+        <previous_claim_scope>747684b0dbb47050c65744fa13961954</previous_claim_scope>
+        <sys_created_by>mohammed.yousufbaba@snc</sys_created_by>
+        <sys_created_on>2021-06-14 14:51:25</sys_created_on>
+        <sys_id>d5784cb4dbb47050c65744fa139619b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
+        <sys_updated_on>2021-06-14 14:51:25</sys_updated_on>
+    </sys_claim>
+</record_update>

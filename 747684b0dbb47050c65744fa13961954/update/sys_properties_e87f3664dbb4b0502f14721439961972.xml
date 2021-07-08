@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.export.csv.column_header_label</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>nagabay.tallapragada@snc</sys_created_by>
+        <sys_created_on>2021-06-14 09:32:32</sys_created_on>
+        <sys_id>e87f3664dbb4b0502f14721439961972</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>glide.export.csv.column_header_label</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SM task">747684b0dbb47050c65744fa13961954</sys_scope>
+        <sys_update_name>sys_properties_e87f3664dbb4b0502f14721439961972</sys_update_name>
+        <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
+        <sys_updated_on>2021-06-14 14:51:27</sys_updated_on>
+        <type>boolean</type>
+        <value>true</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=e87f3664dbb4b0502f14721439961972"/>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="SM task">747684b0dbb47050c65744fa13961954</claim_owner_scope>
+        <claim_timestamp>17a0b01868c0000001</claim_timestamp>
+        <metadata_update_name>sys_properties_e87f3664dbb4b0502f14721439961972</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>SM task</previous_claim_name>
+        <previous_claim_scope>747684b0dbb47050c65744fa13961954</previous_claim_scope>
+        <sys_created_by>mohammed.yousufbaba@snc</sys_created_by>
+        <sys_created_on>2021-06-14 14:51:27</sys_created_on>
+        <sys_id>75788cb4dbb47050c65744fa13961925</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
+        <sys_updated_on>2021-06-14 14:51:27</sys_updated_on>
+    </sys_claim>
+</record_update>

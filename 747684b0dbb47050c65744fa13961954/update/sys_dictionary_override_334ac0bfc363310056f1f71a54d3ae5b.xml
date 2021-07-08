@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override">
+    <sys_dictionary_override action="INSERT_OR_UPDATE">
+        <attributes>default_work_state=-5,close_states=3;4;7,default_close_state=3</attributes>
+        <attributes_override>true</attributes_override>
+        <base_table>task</base_table>
+        <calculation/>
+        <calculation_override>false</calculation_override>
+        <default_value>-5</default_value>
+        <default_value_override>true</default_value_override>
+        <dependent/>
+        <dependent_override>false</dependent_override>
+        <display_override>false</display_override>
+        <element>state</element>
+        <mandatory>false</mandatory>
+        <mandatory_override>false</mandatory_override>
+        <name>change_request</name>
+        <read_only>false</read_only>
+        <read_only_override>false</read_only_override>
+        <reference_qual/>
+        <reference_qual_override>false</reference_qual_override>
+        <sys_class_name>sys_dictionary_override</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-04-27 13:20:35</sys_created_on>
+        <sys_id>334ac0bfc363310056f1f71a54d3ae5b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="Change Management - Foundation Data" source="com.snc.change_management.foundation">573ad3a7dba720102f147214399619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SM task">747684b0dbb47050c65744fa13961954</sys_scope>
+        <sys_update_name>sys_dictionary_override_334ac0bfc363310056f1f71a54d3ae5b</sys_update_name>
+        <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
+        <sys_updated_on>2021-06-14 14:51:27</sys_updated_on>
+    </sys_dictionary_override>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="SM task">747684b0dbb47050c65744fa13961954</claim_owner_scope>
+        <claim_timestamp>17a0b0188b60000001</claim_timestamp>
+        <metadata_update_name>sys_dictionary_override_334ac0bfc363310056f1f71a54d3ae5b</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>SM task</previous_claim_name>
+        <previous_claim_scope>747684b0dbb47050c65744fa13961954</previous_claim_scope>
+        <sys_created_by>mohammed.yousufbaba@snc</sys_created_by>
+        <sys_created_on>2021-06-14 14:51:27</sys_created_on>
+        <sys_id>c2788cb4dbb47050c65744fa13961934</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
+        <sys_updated_on>2021-06-14 14:51:27</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="SM task">747684b0dbb47050c65744fa13961954</claim_owner_scope>
+        <claim_timestamp>17a0b0119400000001</claim_timestamp>
+        <metadata_update_name>sys_dictionary_override_334ac0bfc363310056f1f71a54d3ae5b</metadata_update_name>
+        <previous_claim_app_version/>
+        <previous_claim_name>com.snc.change_management.founda</previous_claim_name>
+        <previous_claim_scope>com.snc.change_management.founda</previous_claim_scope>
+        <sys_created_by>mohammed.yousufbaba@snc</sys_created_by>
+        <sys_created_on>2021-06-14 14:51:27</sys_created_on>
+        <sys_id>86788cb4dbb47050c65744fa13961934</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
+        <sys_updated_on>2021-06-14 14:51:27</sys_updated_on>
+    </sys_claim>
+</record_update>

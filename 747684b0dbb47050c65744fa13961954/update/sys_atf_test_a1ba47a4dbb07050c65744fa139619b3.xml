@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description/>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <name>testing</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>anusha.ghandamaneni@snc</sys_created_by>
+        <sys_created_on>2021-06-14 10:21:49</sys_created_on>
+        <sys_id>a1ba47a4dbb07050c65744fa139619b3</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>testing</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SM task">747684b0dbb47050c65744fa13961954</sys_scope>
+        <sys_update_name>sys_atf_test_a1ba47a4dbb07050c65744fa139619b3</sys_update_name>
+        <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
+        <sys_updated_on>2021-06-14 14:51:18</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=a1ba47a4dbb07050c65744fa139619b3"/>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="SM task">747684b0dbb47050c65744fa13961954</claim_owner_scope>
+        <claim_timestamp>17a0b0164b10000001</claim_timestamp>
+        <metadata_update_name>sys_atf_test_a1ba47a4dbb07050c65744fa139619b3</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>SM task</previous_claim_name>
+        <previous_claim_scope>747684b0dbb47050c65744fa13961954</previous_claim_scope>
+        <sys_created_by>mohammed.yousufbaba@snc</sys_created_by>
+        <sys_created_on>2021-06-14 14:51:18</sys_created_on>
+        <sys_id>b76888b4dbb47050c65744fa13961957</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
+        <sys_updated_on>2021-06-14 14:51:18</sys_updated_on>
+    </sys_claim>
+</record_update>

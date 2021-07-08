@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view_table">
+    <sys_db_view_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <left_join>false</left_join>
+        <order>100</order>
+        <sys_class_name>sys_db_view_table</sys_class_name>
+        <sys_created_by>glide.maint</sys_created_by>
+        <sys_created_on>2009-05-21 18:09:05</sys_created_on>
+        <sys_id>645c65f50a0a0b4b00f7aeb25e80131c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>task_sla</sys_name>
+        <sys_package display_value="Database Views for Service Management" source="com.snc.service.db_views">e8481b2fdb6720102f147214399619e9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SM task">747684b0dbb47050c65744fa13961954</sys_scope>
+        <sys_update_name>sys_db_view_table_645c65f50a0a0b4b00f7aeb25e80131c</sys_update_name>
+        <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
+        <sys_updated_on>2021-06-14 14:51:15</sys_updated_on>
+        <table>task_sla</table>
+        <variable_prefix>taskslatable</variable_prefix>
+        <view display_value="sc_req_item_sla">645adfc70a0a0b4b00a30bbc7df1b276</view>
+        <where_clause/>
+    </sys_db_view_table>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="SM task">747684b0dbb47050c65744fa13961954</claim_owner_scope>
+        <claim_timestamp>17a0b0157fa0000001</claim_timestamp>
+        <metadata_update_name>sys_db_view_table_645c65f50a0a0b4b00f7aeb25e80131c</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>SM task</previous_claim_name>
+        <previous_claim_scope>747684b0dbb47050c65744fa13961954</previous_claim_scope>
+        <sys_created_by>mohammed.yousufbaba@snc</sys_created_by>
+        <sys_created_on>2021-06-14 14:51:15</sys_created_on>
+        <sys_id>0f6848b4dbb47050c65744fa13961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
+        <sys_updated_on>2021-06-14 14:51:15</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="SM task">747684b0dbb47050c65744fa13961954</claim_owner_scope>
+        <claim_timestamp>17a0b0157f90000001</claim_timestamp>
+        <metadata_update_name>sys_db_view_table_645c65f50a0a0b4b00f7aeb25e80131c</metadata_update_name>
+        <previous_claim_app_version/>
+        <previous_claim_name>com.snc.service.db_views</previous_claim_name>
+        <previous_claim_scope>com.snc.service.db_views</previous_claim_scope>
+        <sys_created_by>mohammed.yousufbaba@snc</sys_created_by>
+        <sys_created_on>2021-06-14 14:51:15</sys_created_on>
+        <sys_id>cf6848b4dbb47050c65744fa13961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
+        <sys_updated_on>2021-06-14 14:51:15</sys_updated_on>
+    </sys_claim>
+</record_update>

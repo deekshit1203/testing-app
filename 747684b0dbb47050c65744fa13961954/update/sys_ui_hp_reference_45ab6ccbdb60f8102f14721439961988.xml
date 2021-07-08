@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_hp_reference">
+    <sys_ui_hp_reference action="INSERT_OR_UPDATE">
+        <publisher_reference display_value="Test ">009a688bdb60f8102f14721439961948</publisher_reference>
+        <reference_field>assigned_to</reference_field>
+        <reference_table>incident</reference_table>
+        <sys_class_name>sys_ui_hp_reference</sys_class_name>
+        <sys_created_by>nikhitha.kaparthi@snc</sys_created_by>
+        <sys_created_on>2021-06-09 06:56:24</sys_created_on>
+        <sys_id>45ab6ccbdb60f8102f14721439961988</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>009a688bdb60f8102f14721439961948</sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SM task">747684b0dbb47050c65744fa13961954</sys_scope>
+        <sys_update_name>sys_ui_hp_reference_45ab6ccbdb60f8102f14721439961988</sys_update_name>
+        <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
+        <sys_updated_on>2021-06-14 14:51:26</sys_updated_on>
+    </sys_ui_hp_reference>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="SM task">747684b0dbb47050c65744fa13961954</claim_owner_scope>
+        <claim_timestamp>17a0b0183160000001</claim_timestamp>
+        <metadata_update_name>sys_ui_hp_reference_45ab6ccbdb60f8102f14721439961988</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>SM task</previous_claim_name>
+        <previous_claim_scope>747684b0dbb47050c65744fa13961954</previous_claim_scope>
+        <sys_created_by>mohammed.yousufbaba@snc</sys_created_by>
+        <sys_created_on>2021-06-14 14:51:26</sys_created_on>
+        <sys_id>21784cb4dbb47050c65744fa139619df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
+        <sys_updated_on>2021-06-14 14:51:26</sys_updated_on>
+    </sys_claim>
+</record_update>

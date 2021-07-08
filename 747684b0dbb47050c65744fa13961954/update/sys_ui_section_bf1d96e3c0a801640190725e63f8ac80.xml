@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="bf1d96e3c0a801640190725e63f8ac80" sys_domain="global" table="incident" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>nagabay.tallapragada@snc</sys_created_by>
+            <sys_created_on>2021-06-22 15:16:56</sys_created_on>
+            <sys_id>990b595bdbb87010c65744fa13961935</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="Default view">bf1d96e3c0a801640190725e63f8ac80</sys_ui_section>
+            <sys_updated_by>nagabay.tallapragada@snc</sys_updated_by>
+            <sys_updated_on>2021-06-22 15:16:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>caller_id</element>
+            <position>1</position>
+            <sys_created_by>nagabay.tallapragada@snc</sys_created_by>
+            <sys_created_on>2021-06-22 15:16:56</sys_created_on>
+            <sys_id>510b595bdbb87010c65744fa13961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="Default view">bf1d96e3c0a801640190725e63f8ac80</sys_ui_section>
+            <sys_updated_by>nagabay.tallapragada@snc</sys_updated_by>
+            <sys_updated_on>2021-06-22 15:16:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>2</position>
+            <sys_created_by>nagabay.tallapragada@snc</sys_created_by>
+            <sys_created_on>2021-06-22 15:16:56</sys_created_on>
+            <sys_id>d10b595bdbb87010c65744fa13961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="Default view">bf1d96e3c0a801640190725e63f8ac80</sys_ui_section>
+            <sys_updated_by>nagabay.tallapragada@snc</sys_updated_by>
+            <sys_updated_on>2021-06-22 15:16:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subcategory</element>
+            <position>3</position>
+            <sys_created_by>nagabay.tallapragada@snc</sys_created_by>
+            <sys_created_on>2021-06-22 15:16:56</sys_created_on>
+            <sys_id>550b595bdbb87010c65744fa13961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="Default view">bf1d96e3c0a801640190725e63f8ac80</sys_ui_section>
+            <sys_updated_by>nagabay.tallapragada@snc</sys_updated_by>
+            <sys_updated_on>2021-06-22 15:16:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_service</element>
+            <position>4</position>
+            <sys_created_by>nagabay.tallapragada@snc</sys_created_by>
+            <sys_created_on>2021-06-22 15:16:56</sys_created_on>
+            <sys_id>d50b595bdbb87010c65744fa13961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="Default view">bf1d96e3c0a801640190725e63f8ac80</sys_ui_section>
+            <sys_updated_by>nagabay.tallapragada@snc</sys_updated_by>
+            <sys_updated_on>2021-06-22 15:16:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>5</position>
+            <sys_created_by>nagabay.tallapragada@snc</sys_created_by>
+            <sys_created_on>2021-06-22 15:16:56</sys_created_on>
+            <sys_id>590b595bdbb87010c65744fa13961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="Default view">bf1d96e3c0a801640190725e63f8ac80</sys_ui_section>
+            <sys_updated_by>nagabay.tallapragada@snc</sys_updated_by>
+            <sys_updated_on>2021-06-22 15:16:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>nagabay.tallapragada@snc</sys_created_by>
+            <sys_created_on>2021-06-22 15:16:56</sys_created_on>
+            <sys_id>d90b595bdbb87010c65744fa13961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="Default view">bf1d96e3c0a801640190725e63f8ac80</sys_ui_section>
+            <sys_updated_by>nagabay.tallapragada@snc</sys_updated_by>
+            <sys_updated_on>2021-06-22 15:16:56</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact_type</element>
+            <position>7</position>
+            <sys_created_by>nagabay.tallapragada@snc</sys_created_by>
+            <sys_created_on>2021-06-22 15:16:56</sys_created_on>
+            <sys_id>5d0b595bdbb87010c65744fa13961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="Default view">bf1d96e3c0a801640190725e63f8ac80</sys_ui_section>
+            <sys_updated_by>nagabay.tallapragada@snc</sys_updated_by>
+            <sys_updated_on>2021-06-22 15:16:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>8</position>
+            <sys_created_by>nagabay.tallapragada@snc</sys_created_by>
+            <sys_created_on>2021-06-22 15:16:56</sys_created_on>
+            <sys_id>dd0b595bdbb87010c65744fa13961936</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="Default view">bf1d96e3c0a801640190725e63f8ac80</sys_ui_section>
+            <sys_updated_by>nagabay.tallapragada@snc</sys_updated_by>
+            <sys_updated_on>2021-06-22 15:16:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hold_reason</element>
+            <position>9</position>
+            <sys_created_by>nagabay.tallapragada@snc</sys_created_by>
+            <sys_created_on>2021-06-22 15:16:56</sys_created_on>
+            <sys_id>510b595bdbb87010c65744fa13961937</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="Default view">bf1d96e3c0a801640190725e63f8ac80</sys_ui_section>
+            <sys_updated_by>nagabay.tallapragada@snc</sys_updated_by>
+            <sys_updated_on>2021-06-22 15:16:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>impact</element>
+            <position>10</position>
+            <sys_created_by>nagabay.tallapragada@snc</sys_created_by>
+            <sys_created_on>2021-06-22 15:16:56</sys_created_on>
+            <sys_id>d10b595bdbb87010c65744fa13961937</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="Default view">bf1d96e3c0a801640190725e63f8ac80</sys_ui_section>
+            <sys_updated_by>nagabay.tallapragada@snc</sys_updated_by>
+            <sys_updated_on>2021-06-22 15:16:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>urgency</element>
+            <position>11</position>
+            <sys_created_by>nagabay.tallapragada@snc</sys_created_by>
+            <sys_created_on>2021-06-22 15:16:56</sys_created_on>
+            <sys_id>550b595bdbb87010c65744fa13961937</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="Default view">bf1d96e3c0a801640190725e63f8ac80</sys_ui_section>
+            <sys_updated_by>nagabay.tallapragada@snc</sys_updated_by>
+            <sys_updated_on>2021-06-22 15:16:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>12</position>
+            <sys_created_by>nagabay.tallapragada@snc</sys_created_by>
+            <sys_created_on>2021-06-22 15:16:56</sys_created_on>
+            <sys_id>d50b595bdbb87010c65744fa13961937</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="Default view">bf1d96e3c0a801640190725e63f8ac80</sys_ui_section>
+            <sys_updated_by>nagabay.tallapragada@snc</sys_updated_by>
+            <sys_updated_on>2021-06-22 15:16:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>13</position>
+            <sys_created_by>nagabay.tallapragada@snc</sys_created_by>
+            <sys_created_on>2021-06-22 15:16:56</sys_created_on>
+            <sys_id>590b595bdbb87010c65744fa13961937</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="Default view">bf1d96e3c0a801640190725e63f8ac80</sys_ui_section>
+            <sys_updated_by>nagabay.tallapragada@snc</sys_updated_by>
+            <sys_updated_on>2021-06-22 15:16:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>14</position>
+            <sys_created_by>nagabay.tallapragada@snc</sys_created_by>
+            <sys_created_on>2021-06-22 15:16:56</sys_created_on>
+            <sys_id>d90b595bdbb87010c65744fa13961937</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="Default view">bf1d96e3c0a801640190725e63f8ac80</sys_ui_section>
+            <sys_updated_by>nagabay.tallapragada@snc</sys_updated_by>
+            <sys_updated_on>2021-06-22 15:16:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>15</position>
+            <sys_created_by>nagabay.tallapragada@snc</sys_created_by>
+            <sys_created_on>2021-06-22 15:16:56</sys_created_on>
+            <sys_id>5d0b595bdbb87010c65744fa13961937</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="Default view">bf1d96e3c0a801640190725e63f8ac80</sys_ui_section>
+            <sys_updated_by>nagabay.tallapragada@snc</sys_updated_by>
+            <sys_updated_on>2021-06-22 15:16:56</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>16</position>
+            <sys_created_by>nagabay.tallapragada@snc</sys_created_by>
+            <sys_created_on>2021-06-22 15:16:56</sys_created_on>
+            <sys_id>dd0b595bdbb87010c65744fa13961937</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="Default view">bf1d96e3c0a801640190725e63f8ac80</sys_ui_section>
+            <sys_updated_by>nagabay.tallapragada@snc</sys_updated_by>
+            <sys_updated_on>2021-06-22 15:16:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cxs_table_search.xml</element>
+            <position>17</position>
+            <sys_created_by>nagabay.tallapragada@snc</sys_created_by>
+            <sys_created_on>2021-06-22 15:16:56</sys_created_on>
+            <sys_id>510b595bdbb87010c65744fa13961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="Default view">bf1d96e3c0a801640190725e63f8ac80</sys_ui_section>
+            <sys_updated_by>nagabay.tallapragada@snc</sys_updated_by>
+            <sys_updated_on>2021-06-22 15:16:56</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>skills</element>
+            <position>18</position>
+            <sys_created_by>nagabay.tallapragada@snc</sys_created_by>
+            <sys_created_on>2021-06-22 15:16:56</sys_created_on>
+            <sys_id>150b595bdbb87010c65744fa13961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="Default view">bf1d96e3c0a801640190725e63f8ac80</sys_ui_section>
+            <sys_updated_by>nagabay.tallapragada@snc</sys_updated_by>
+            <sys_updated_on>2021-06-22 15:16:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_test</element>
+            <position>19</position>
+            <sys_created_by>nagabay.tallapragada@snc</sys_created_by>
+            <sys_created_on>2021-06-22 15:16:56</sys_created_on>
+            <sys_id>950b595bdbb87010c65744fa13961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="Default view">bf1d96e3c0a801640190725e63f8ac80</sys_ui_section>
+            <sys_updated_by>nagabay.tallapragada@snc</sys_updated_by>
+            <sys_updated_on>2021-06-22 15:16:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group.manager</element>
+            <position>20</position>
+            <sys_created_by>nagabay.tallapragada@snc</sys_created_by>
+            <sys_created_on>2021-06-22 15:16:56</sys_created_on>
+            <sys_id>190b595bdbb87010c65744fa13961938</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="incident" sys_domain="global" view="Default view">bf1d96e3c0a801640190725e63f8ac80</sys_ui_section>
+            <sys_updated_by>nagabay.tallapragada@snc</sys_updated_by>
+            <sys_updated_on>2021-06-22 15:16:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>fred.luddy</sys_created_by>
+            <sys_created_on>2004-07-14 19:25:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf1d96e3c0a801640190725e63f8ac80</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>incident</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Knowledge Management V3" source="com.snc.knowledge3">4d781b6fdb6720102f147214399619fa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SM task">747684b0dbb47050c65744fa13961954</sys_scope>
+            <sys_update_name>sys_ui_section_bf1d96e3c0a801640190725e63f8ac80</sys_update_name>
+            <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
+            <sys_updated_on>2021-06-14 14:51:28</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="SM task">747684b0dbb47050c65744fa13961954</claim_owner_scope>
+        <claim_timestamp>17a0b018ae90000001</claim_timestamp>
+        <metadata_update_name>sys_ui_section_bf1d96e3c0a801640190725e63f8ac80</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>SM task</previous_claim_name>
+        <previous_claim_scope>747684b0dbb47050c65744fa13961954</previous_claim_scope>
+        <sys_created_by>mohammed.yousufbaba@snc</sys_created_by>
+        <sys_created_on>2021-06-14 14:51:28</sys_created_on>
+        <sys_id>ce788cb4dbb47050c65744fa13961950</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
+        <sys_updated_on>2021-06-14 14:51:28</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="SM task">747684b0dbb47050c65744fa13961954</claim_owner_scope>
+        <claim_timestamp>17a0b018ae80000001</claim_timestamp>
+        <metadata_update_name>sys_ui_section_bf1d96e3c0a801640190725e63f8ac80</metadata_update_name>
+        <previous_claim_app_version/>
+        <previous_claim_name>com.snc.knowledge3</previous_claim_name>
+        <previous_claim_scope>com.snc.knowledge3</previous_claim_scope>
+        <sys_created_by>mohammed.yousufbaba@snc</sys_created_by>
+        <sys_created_on>2021-06-14 14:51:28</sys_created_on>
+        <sys_id>82788cb4dbb47050c65744fa13961951</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
+        <sys_updated_on>2021-06-14 14:51:28</sys_updated_on>
+    </sys_claim>
+</record_update>
