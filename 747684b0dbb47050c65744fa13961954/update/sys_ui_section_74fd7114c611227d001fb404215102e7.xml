@@ -205,17 +205,17 @@
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2006-02-16 22:31:40</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_domain_path/>
+            <sys_domain_path>/</sys_domain_path>
             <sys_id>74fd7114c611227d001fb404215102e7</sys_id>
-            <sys_mod_count>2</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_name>sc_req_item</sys_name>
             <sys_overrides/>
             <sys_package display_value="Service Catalog Platform" source="com.glideapp.servicecatalog.platform">8fa5136fdb2720102f14721439961924</sys_package>
             <sys_policy/>
             <sys_scope display_value="SM task">747684b0dbb47050c65744fa13961954</sys_scope>
             <sys_update_name>sys_ui_section_74fd7114c611227d001fb404215102e7</sys_update_name>
-            <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
-            <sys_updated_on>2021-06-14 14:50:58</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2006-02-16 22:31:40</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Catalog" name="catalog">7966c6b60a0a0b8c0073a7efb40effc2</view>
@@ -224,30 +224,16 @@
     </sys_ui_section>
     <sys_claim action="INSERT_OR_UPDATE">
         <claim_owner_scope display_value="SM task">747684b0dbb47050c65744fa13961954</claim_owner_scope>
-        <claim_timestamp>17a0b0114e80000001</claim_timestamp>
+        <claim_timestamp>17b350868db0000001</claim_timestamp>
         <metadata_update_name>sys_ui_section_74fd7114c611227d001fb404215102e7</metadata_update_name>
         <previous_claim_app_version>1.0.0</previous_claim_app_version>
         <previous_claim_name>SM task</previous_claim_name>
         <previous_claim_scope>747684b0dbb47050c65744fa13961954</previous_claim_scope>
-        <sys_created_by>mohammed.yousufbaba@snc</sys_created_by>
-        <sys_created_on>2021-06-14 14:50:58</sys_created_on>
-        <sys_id>fe58c0b4dbb47050c65744fa1396194e</sys_id>
+        <sys_created_by>deekshitulu.malladi@snc</sys_created_by>
+        <sys_created_on>2021-08-11 11:45:48</sys_created_on>
+        <sys_id>8c3a46d3dbf1bc102f147214399619dd</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
-        <sys_updated_on>2021-06-14 14:50:58</sys_updated_on>
-    </sys_claim>
-    <sys_claim action="INSERT_OR_UPDATE">
-        <claim_owner_scope display_value="SM task">747684b0dbb47050c65744fa13961954</claim_owner_scope>
-        <claim_timestamp>17a0b0114e70000001</claim_timestamp>
-        <metadata_update_name>sys_ui_section_74fd7114c611227d001fb404215102e7</metadata_update_name>
-        <previous_claim_app_version/>
-        <previous_claim_name>com.glideapp.servicecatalog.platform</previous_claim_name>
-        <previous_claim_scope>com.glideapp.servicecatalog.plat</previous_claim_scope>
-        <sys_created_by>mohammed.yousufbaba@snc</sys_created_by>
-        <sys_created_on>2021-06-14 14:50:58</sys_created_on>
-        <sys_id>b258c0b4dbb47050c65744fa1396194f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>mohammed.yousufbaba@snc</sys_updated_by>
-        <sys_updated_on>2021-06-14 14:50:58</sys_updated_on>
+        <sys_updated_by>deekshitulu.malladi@snc</sys_updated_by>
+        <sys_updated_on>2021-08-11 11:45:48</sys_updated_on>
     </sys_claim>
 </record_update>

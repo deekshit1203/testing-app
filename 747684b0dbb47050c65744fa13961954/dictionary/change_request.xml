@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="email_client=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="Demande de changement" max_length="40" name="change_request" sizeclass="100" text_index="true" type="collection">
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="Demande de changement" max_length="40" name="change_request" sizeclass="89" text_index="true" type="collection">
         <element hint="test" label="details" max_length="40" name="u_details" type="string"/>
     </element>
 </database>
